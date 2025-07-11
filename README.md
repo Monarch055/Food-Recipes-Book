@@ -34,7 +34,9 @@ A beautiful and feature-rich mobile recipe app built with React Native and Expo.
 
 ## 📱 Screenshots
 
-*Screenshots will be added here*
+![WhatsApp Image 2025-07-11 at 11 31 21_6d789439](https://github.com/user-attachments/assets/234df976-6b97-4d06-a55d-e489f9e27e24)
+![WhatsApp Image 2025-07-11 at 11 31 21_ad78dd04](https://github.com/user-attachments/assets/dcaebfab-79a4-4d03-980f-19b07cc9966e)
+![WhatsApp Image 2025-07-11 at 11 31 21_74eb2209](https://github.com/user-attachments/assets/936e8660-bb28-467e-ae7d-c776f1cec2e1)
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +60,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/recipe-book.git
+   git clone https://github.com/Monarch055/Food-Recipes-Book.git
    cd recipe-book
    ```
 
